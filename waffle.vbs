@@ -1,7 +1,7 @@
 
-x=msgbox("Your computer is hacked!",0+48,"Uh Oh!")
-x=msgbox("Hacker has injected a virus into your computer!",0+48,"Uh Oh!")
-x=msgbox("This is TitleBot. Send 100 BitCoin to remove",4+64,"TitleBot")
+x=msgbox("Your computer is hacked by TitleBot 1.0",0+48,"Uh Oh!")
+x=msgbox("TitleBot has injected a virus into your computer!",0+48,"Uh Oh!")
+x=msgbox("TitleBot is playing with your functions",4+64,"Windows Security")
 
 Set wshShell =wscript.CreateObject("WScript.Shell")
 do
